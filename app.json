@@ -2,9 +2,9 @@
   "expo": {
     "name": "flappy-bird-starter",
     "description": "No description",
-    "slug": "snack-B1vp0JgHm",
+    "slug": "flappy-bird",
     "privacy": "unlisted",
-    "sdkVersion": "23.0.0",
+    "sdkVersion": "29.0.0",
     "version": "1.0.0",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
